@@ -96,3 +96,4 @@ The CI workflow builds, tests, and publishes to GitHub Container Registry on pus
 ghcr.io/rdi-foundation/tau2-agentbeats:latest
 ghcr.io/rdi-foundation/tau2-agentbeats:1.0.0
 ```
+test run
